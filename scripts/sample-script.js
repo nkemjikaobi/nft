@@ -17,9 +17,21 @@ async function main() {
   const Greeter = await hre.ethers.getContractFactory("Greeter");
   const greeter = await Greeter.deploy("Hello, Hardhat!");
 
+  //Akaza ERC20 Contract
+  const Akaza = await hre.ethers.getContractFactory("Akaza");
+  const akaza = await Akaza.deploy();
+
+  //Akaza ERC721 Contract
+  const AkazaNFT = await hre.ethers.getContractFactory("AkazaNFT");
+  const akazaNft = await AkazaNFT.deploy();
+
   await greeter.deployed();
+  await akaza.deployed();
+  await akazaNft.deployed();
 
   console.log("Greeter deployed to:", greeter.address);
+  console.log("Akaza deployed to:", akaza.address);
+  console.log("AkazaNFT deployed to:", akazaNft.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere

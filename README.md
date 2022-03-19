@@ -1,12 +1,12 @@
 # ERC 20 & ERC 721 Smart contracts
 
-Creatio of an ERC20 smart contract and ERC721 token.
+Creation of an ERC20 smart contract and ERC721 token.
 
 Two NFT'S were minted with the contract
 
-- ERC20 contract address => [https://rinkeby.etherscan.io/address/0xB6F90EaD9AA2E5F2F0Ef22d4784334a736Dc7659](https://rinkeby.etherscan.io/address/0xB6F90EaD9AA2E5F2F0Ef22d4784334a736Dc7659)
+- ERC20 contract address => [https://rinkeby.etherscan.io/address/0x57D0B76B0CB2cC046bE7D806c03C8CC0B32D8A72](https://rinkeby.etherscan.io/address/0x57D0B76B0CB2cC046bE7D806c03C8CC0B32D8A72)
   
-- ERC 721 contract address => [https://rinkeby.etherscan.io/address/0xB6F90EaD9AA2E5F2F0Ef22d4784334a736Dc7659](https://rinkeby.etherscan.io/address/0xB6F90EaD9AA2E5F2F0Ef22d4784334a736Dc7659)
+- ERC 721 contract address => [https://rinkeby.etherscan.io/address/0xf5515b0ac8b479aDB75048Eee3945E9c9d967CB7](https://rinkeby.etherscan.io/address/0xf5515b0ac8b479aDB75048Eee3945E9c9d967CB7)
 
 ## NFT MetaData IPFS URL
 
