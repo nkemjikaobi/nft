@@ -6,7 +6,7 @@ Two NFT'S were minted with the contract
 
 - ERC20 contract address => [https://rinkeby.etherscan.io/address/0x57D0B76B0CB2cC046bE7D806c03C8CC0B32D8A72](https://rinkeby.etherscan.io/address/0x57D0B76B0CB2cC046bE7D806c03C8CC0B32D8A72)
   
-- ERC 721 contract address => [https://rinkeby.etherscan.io/address/0xf5515b0ac8b479aDB75048Eee3945E9c9d967CB7](https://rinkeby.etherscan.io/address/0xf5515b0ac8b479aDB75048Eee3945E9c9d967CB7)
+- ERC 721 contract address => [https://rinkeby.etherscan.io/address/0x62ea4495eb0a0ec06c9a2c11e6f8c9779ac4ce70](https://rinkeby.etherscan.io/address/0x62ea4495eb0a0ec06c9a2c11e6f8c9779ac4ce70)
 
 ## NFT MetaData IPFS URL
 
